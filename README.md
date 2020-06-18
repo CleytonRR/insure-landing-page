@@ -2,11 +2,11 @@
 
 ![Design preview for the Insure landing page coding challenge](./design/desktop-preview.jpg)
 
-##About :clipboard:
+## About :clipboard:
 
 This Landing Page was created for the challenge of the [Frontend Mentor](https://www.frontendmentor.io/). It was really cool to build this page, because I managed to learn a lot.
 
-##How to configure :rocket:
+## How to configure :rocket:
 
 **Clone repository**
 
@@ -27,7 +27,7 @@ This Landing Page was created for the challenge of the [Frontend Mentor](https:/
   $ yarn
 ```
 
-##Run :fire:
+## Run :fire:
 
 In directory run
 
