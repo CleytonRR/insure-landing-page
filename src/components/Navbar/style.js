@@ -49,6 +49,7 @@ export const Menu = styled.ul`
     ${(props) => (props.openMenu ? `left: 0;` : `left: -1000px;`)}
     height: 100vh;
     width: 100vw;
+    z-index: 2;
     background-color: hsl(256, 26%, 20%);
     background-image: url(${BgNavMenu});
     background-repeat: no-repeat;
